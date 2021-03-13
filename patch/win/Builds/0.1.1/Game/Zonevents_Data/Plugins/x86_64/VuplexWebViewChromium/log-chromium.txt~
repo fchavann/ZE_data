@@ -1,0 +1,116 @@
+[0312/010902.074:ERROR:ChromiumLogFunctions.h(15)] 115148629 [LocalChromiumWebView] ExecuteJavaScript was called before the first JavaScript context was created
+[0312/010902.075:ERROR:ChromiumLogFunctions.h(15)] 115148629 [LocalChromiumWebView] ExecuteJavaScript was called before the first JavaScript context was created
+[0312/011047.614:ERROR:ChromiumLogFunctions.h(15)] 115254168 [LocalChromiumWebView] ExecuteJavaScript was called before the first JavaScript context was created
+[0312/011047.614:ERROR:ChromiumLogFunctions.h(15)] 115254168 [LocalChromiumWebView] ExecuteJavaScript was called before the first JavaScript context was created
+[0312/011048.868:WARNING:backend_impl.cc(1835)] Destroying invalid entry.
+[0312/011204.893:ERROR:ChromiumLogFunctions.h(15)] 115331447 [LocalChromiumWebView] ExecuteJavaScript was called before the first JavaScript context was created
+[0312/011204.893:ERROR:ChromiumLogFunctions.h(15)] 115331447 [LocalChromiumWebView] ExecuteJavaScript was called before the first JavaScript context was created
+[0312/011206.128:WARNING:backend_impl.cc(1627)] Messed up entry found.
+[0312/011206.128:WARNING:backend_impl.cc(1835)] Destroying invalid entry.
+[0312/011553.724:ERROR:ChromiumLogFunctions.h(15)] 115560278 [LocalChromiumWebView] ExecuteJavaScript was called before the first JavaScript context was created
+[0312/011553.725:ERROR:ChromiumLogFunctions.h(15)] 115560279 [LocalChromiumWebView] ExecuteJavaScript was called before the first JavaScript context was created
+[0312/011553.821:ERROR:backend_impl.cc(2054)] Invalid cache (current) size
+[0312/011644.346:WARNING:backend_impl.cc(1835)] Destroying invalid entry.
+[0312/011644.454:WARNING:backend_impl.cc(1835)] Destroying invalid entry.
+[0312/011644.455:WARNING:backend_impl.cc(1835)] Destroying invalid entry.
+[0312/011644.457:WARNING:backend_impl.cc(1835)] Destroying invalid entry.
+[0312/011644.466:WARNING:backend_impl.cc(1835)] Destroying invalid entry.
+[0312/013035.716:ERROR:ChromiumLogFunctions.h(15)] 116442271 [LocalChromiumWebView] ExecuteJavaScript was called before the first JavaScript context was created
+[0312/013035.716:ERROR:ChromiumLogFunctions.h(15)] 116442271 [LocalChromiumWebView] ExecuteJavaScript was called before the first JavaScript context was created
+[0312/013220.715:ERROR:ChromiumLogFunctions.h(15)] 116547270 [LocalChromiumWebView] ExecuteJavaScript was called before the first JavaScript context was created
+[0312/013220.715:ERROR:ChromiumLogFunctions.h(15)] 116547270 [LocalChromiumWebView] ExecuteJavaScript was called before the first JavaScript context was created
+[0312/104209.942:WARNING:backend_impl.cc(1835)] Destroying invalid entry.
+[0312/141142.256:WARNING:backend_impl.cc(1835)] Destroying invalid entry.
+[0312/141142.256:WARNING:backend_impl.cc(1835)] Destroying invalid entry.
+[0312/141142.257:WARNING:backend_impl.cc(1835)] Destroying invalid entry.
+[0312/141142.257:WARNING:backend_impl.cc(1835)] Destroying invalid entry.
+[0312/141142.458:WARNING:backend_impl.cc(1835)] Destroying invalid entry.
+[0312/141142.459:WARNING:backend_impl.cc(1835)] Destroying invalid entry.
+[0312/141142.461:WARNING:backend_impl.cc(1835)] Destroying invalid entry.
+[0312/141142.461:WARNING:backend_impl.cc(1835)] Destroying invalid entry.
+[0312/141142.461:WARNING:backend_impl.cc(1835)] Destroying invalid entry.
+[0312/141142.463:WARNING:backend_impl.cc(1835)] Destroying invalid entry.
+[0312/141142.463:WARNING:backend_impl.cc(1835)] Destroying invalid entry.
+[0312/141144.833:WARNING:backend_impl.cc(1835)] Destroying invalid entry.
+[0312/141144.833:WARNING:backend_impl.cc(1835)] Destroying invalid entry.
+[0312/150236.098:WARNING:spdy_session.cc(3306)] Received HEADERS for invalid stream 3
+[0312/150509.257:WARNING:spdy_session.cc(3306)] Received HEADERS for invalid stream 19
+[0312/151215.540:WARNING:spdy_session.cc(3306)] Received HEADERS for invalid stream 9
+[0312/151407.097:WARNING:spdy_session.cc(3306)] Received HEADERS for invalid stream 9
+[0312/151539.532:WARNING:spdy_session.cc(3306)] Received HEADERS for invalid stream 9
+[0312/230003.935:ERROR:ChromiumLogFunctions.h(15)] 193816160 [ChromiumToPluginBridge] ReadFile failed with error code: 109
+[0312/230055.545:ERROR:ChromiumLogFunctions.h(15)] 193867770 Didn't receive a heartbeat message from the main process, so it must have died. Terminating the Vuplex WebView Chromium process...
+[0312/230055.546:ERROR:ChromiumLogFunctions.h(15)] 193867771 Vuplex WebView Chromium process terminated.
+[0312/231854.113:WARNING:backend_impl.cc(1835)] Destroying invalid entry.
+[0312/231902.347:WARNING:backend_impl.cc(1835)] Destroying invalid entry.
+[0312/231902.348:WARNING:backend_impl.cc(1835)] Destroying invalid entry.
+[0312/231902.348:WARNING:backend_impl.cc(1835)] Destroying invalid entry.
+[0312/231902.348:WARNING:backend_impl.cc(1835)] Destroying invalid entry.
+[0312/231902.509:WARNING:backend_impl.cc(1835)] Destroying invalid entry.
+[0312/231902.512:WARNING:backend_impl.cc(1835)] Destroying invalid entry.
+[0312/231902.517:WARNING:backend_impl.cc(1835)] Destroying invalid entry.
+[0312/231902.518:WARNING:backend_impl.cc(1835)] Destroying invalid entry.
+[0312/231902.519:WARNING:backend_impl.cc(1835)] Destroying invalid entry.
+[0312/231903.156:WARNING:backend_impl.cc(1835)] Destroying invalid entry.
+[0312/231903.156:WARNING:backend_impl.cc(1835)] Destroying invalid entry.
+[0312/233744.574:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0312/233744.583:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0312/233749.598:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0312/233749.599:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0312/233754.603:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0312/233754.618:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0312/233759.616:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0312/233759.630:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0312/233804.637:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0312/233804.638:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0312/233809.643:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0312/233809.644:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0312/233812.893:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0312/233814.651:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0312/233814.653:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0312/233817.902:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0312/233819.676:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0312/233819.676:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0312/233822.913:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0312/233824.693:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0312/233824.693:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0312/233827.928:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0312/233829.706:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0312/233829.706:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0312/233832.947:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0312/233834.714:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0312/233834.715:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0312/233837.961:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0312/233839.730:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0312/233839.730:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0312/233842.982:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0312/233844.748:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0312/233844.749:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0312/233845.906:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0312/233848.003:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0312/234009.882:ERROR:ChromiumLogFunctions.h(15)] 196222107 [ChromiumToPluginBridge] ReadFile failed with error code: 109
+[0312/234107.337:ERROR:ChromiumLogFunctions.h(15)] 196279561 Didn't receive a heartbeat message from the main process, so it must have died. Terminating the Vuplex WebView Chromium process...
+[0312/234107.337:ERROR:ChromiumLogFunctions.h(15)] 196279562 Vuplex WebView Chromium process terminated.
+[0313/000354.756:ERROR:ChromiumLogFunctions.h(15)] 197646981 [LocalChromiumWebView] ExecuteJavaScript was called before the first JavaScript context was created
+[0313/000354.756:ERROR:ChromiumLogFunctions.h(15)] 197646981 [LocalChromiumWebView] ExecuteJavaScript was called before the first JavaScript context was created
+[0313/000416.487:ERROR:ChromiumLogFunctions.h(15)] 197668712 [LocalChromiumWebView] ExecuteJavaScript was called before the first JavaScript context was created
+[0313/000416.487:ERROR:ChromiumLogFunctions.h(15)] 197668712 [LocalChromiumWebView] ExecuteJavaScript was called before the first JavaScript context was created
+[0313/001944.069:WARNING:backend_impl.cc(1835)] Destroying invalid entry.
+[0313/002145.344:WARNING:backend_impl.cc(1835)] Destroying invalid entry.
+[0313/002417.936:WARNING:backend_impl.cc(1835)] Destroying invalid entry.
+[0313/002418.423:WARNING:backend_impl.cc(1835)] Destroying invalid entry.
+[0313/002418.424:WARNING:backend_impl.cc(1835)] Destroying invalid entry.
+[0313/002418.966:WARNING:backend_impl.cc(1835)] Destroying invalid entry.
+[0313/005721.308:ERROR:ChromiumLogFunctions.h(15)] 200853532 [ChromiumToPluginBridge] ReadFile failed with error code: 109
+[0313/005838.902:ERROR:ChromiumLogFunctions.h(15)] 200931126 Didn't receive a heartbeat message from the main process, so it must have died. Terminating the Vuplex WebView Chromium process...
+[0313/005838.903:ERROR:ChromiumLogFunctions.h(15)] 200931127 Vuplex WebView Chromium process terminated.
+[0313/010655.531:WARNING:sync_reader.cc(170)] ASR: No room in socket buffer.: Le canal de communication est sur le point d’être fermé. (0xE8)
+[0313/011229.101:WARNING:backend_impl.cc(1835)] Destroying invalid entry.
+[0313/012615.640:WARNING:backend_impl.cc(1835)] Destroying invalid entry.
+[0313/012616.386:WARNING:backend_impl.cc(1835)] Destroying invalid entry.
+[0313/013257.847:WARNING:backend_impl.cc(1627)] Messed up entry found.
+[0313/013257.847:WARNING:backend_impl.cc(1835)] Destroying invalid entry.
+[0313/023255.072:ERROR:ChromiumLogFunctions.h(15)] 206587297 [ChromiumToPluginBridge] ReadFile failed with error code: 109
+[0313/023350.685:ERROR:ChromiumLogFunctions.h(15)] 206642910 Didn't receive a heartbeat message from the main process, so it must have died. Terminating the Vuplex WebView Chromium process...
+[0313/023350.688:ERROR:ChromiumLogFunctions.h(15)] 206642913 Vuplex WebView Chromium process terminated.
+[0313/023940.682:WARNING:backend_impl.cc(1835)] Destroying invalid entry.

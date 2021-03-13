@@ -1,0 +1,193 @@
+<linker>
+  <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.InstanceProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.SceneProvider" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Material" preserve="all" />
+    <type fullname="UnityEngine.Texture2D" preserve="all" />
+    <type fullname="UnityEngine.Shader" preserve="all" />
+    <type fullname="UnityEngine.GameObject" preserve="all" />
+    <type fullname="UnityEngine.Transform" preserve="all" />
+    <type fullname="UnityEngine.Camera" preserve="all" />
+    <type fullname="UnityEngine.MeshRenderer" preserve="all" />
+    <type fullname="UnityEngine.MeshFilter" preserve="all" />
+    <type fullname="UnityEngine.Mesh" preserve="all" />
+    <type fullname="UnityEngine.Light" preserve="all" />
+    <type fullname="UnityEngine.Sprite" preserve="all" />
+    <type fullname="UnityEngine.RectTransform" preserve="all" />
+    <type fullname="UnityEngine.SkinnedMeshRenderer" preserve="all" />
+    <type fullname="UnityEngine.RenderSettings" preserve="all" />
+    <type fullname="UnityEngine.LightmapSettings" preserve="all" />
+    <type fullname="UnityEngine.Object" preserve="all" />
+    <type fullname="UnityEngine.LightProbes" preserve="all" />
+    <type fullname="UnityEngine.Cubemap" preserve="all" />
+    <type fullname="UnityEngine.MonoBehaviour" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.PhysicsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Rigidbody" preserve="all" />
+    <type fullname="UnityEngine.BoxCollider" preserve="all" />
+    <type fullname="UnityEngine.MeshCollider" preserve="all" />
+    <type fullname="UnityEngine.CapsuleCollider" preserve="all" />
+    <type fullname="UnityEngine.SphereCollider" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.AudioListener" preserve="all" />
+    <type fullname="UnityEngine.AudioSource" preserve="all" />
+    <type fullname="UnityEngine.AudioClip" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.IMGUIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.GUISkin" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.UI.Toggle" preserve="all" />
+    <type fullname="UnityEngine.UI.Button" preserve="all" />
+    <type fullname="UnityEngine.UI.Text" preserve="all" />
+    <type fullname="UnityEngine.UI.CanvasScaler" preserve="all" />
+    <type fullname="UnityEngine.UI.Slider" preserve="all" />
+    <type fullname="UnityEngine.UI.GraphicRaycaster" preserve="all" />
+    <type fullname="UnityEngine.UI.Scrollbar" preserve="all" />
+    <type fullname="UnityEngine.UI.Image" preserve="all" />
+    <type fullname="UnityEngine.EventSystems.PhysicsRaycaster" preserve="all" />
+    <type fullname="UnityEngine.UI.RectMask2D" preserve="all" />
+    <type fullname="UnityEngine.UI.Mask" preserve="all" />
+    <type fullname="UnityEngine.EventSystems.EventSystem" preserve="all" />
+    <type fullname="UnityEngine.UI.ScrollRect" preserve="all" />
+    <type fullname="UnityEngine.UI.RawImage" preserve="all" />
+    <type fullname="UnityEngine.EventSystems.EventTrigger" preserve="all" />
+    <type fullname="UnityEngine.UI.Dropdown" preserve="all" />
+    <type fullname="UnityEngine.EventSystems.StandaloneInputModule" preserve="all" />
+  </assembly>
+  <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="ThemeManager" preserve="all" />
+    <type fullname="Vuplex.WebView.CanvasPointerInputDetector" preserve="all" />
+    <type fullname="ParameterManager" preserve="all" />
+    <type fullname="ScreenMenuManager" preserve="all" />
+    <type fullname="LogoStartScreen" preserve="all" />
+    <type fullname="AnnonceTextManager" preserve="all" />
+    <type fullname="ArrowAnim" preserve="all" />
+    <type fullname="GoRoomBtn" preserve="all" />
+    <type fullname="Loaderimg" preserve="all" />
+    <type fullname="vThirdPersonCamera" preserve="all" />
+    <type fullname="VoiceZone" preserve="all" />
+    <type fullname="ContainerManager" preserve="all" />
+    <type fullname="MenuManager" preserve="all" />
+    <type fullname="PostItMenuManager" preserve="all" />
+    <type fullname="ShowAvatarBtn" preserve="all" />
+    <type fullname="AvatarMenuManager" preserve="all" />
+    <type fullname="InteractionManager" preserve="all" />
+    <type fullname="BlocManager" preserve="all" />
+    <type fullname="KeyboardManager" preserve="all" />
+    <type fullname="MicroManager" preserve="all" />
+    <type fullname="Invector.Utils.vComment" preserve="all" />
+    <type fullname="Vuplex.WebView.CanvasViewportMaterialView" preserve="all" />
+    <type fullname="CurrentSceneManager" preserve="all" />
+    <type fullname="DetectAccess" preserve="all" />
+    <type fullname="Photon.Pun.UtilityScripts.OnJoinedInstantiateCustom" preserve="all" />
+    <type fullname="Photon.Voice.Unity.Demos.DemoVoiceUI.MicrophoneDropdownFillerCustom" preserve="all" />
+    <type fullname="ManagerManager" preserve="all" />
+    <type fullname="LoadingScreenManager" preserve="all" />
+    <type fullname="PUN2_Chat" preserve="all" />
+    <type fullname="AnimationsManager" preserve="all" />
+    <type fullname="Vuplex.WebView.CanvasWebViewPrefab" preserve="all" />
+    <type fullname="Lean.Localization.LeanLocalizedTextMeshPro" preserve="all" />
+    <type fullname="ScreenEditorManager" preserve="all" />
+    <type fullname="ChairManager" preserve="all" />
+    <type fullname="HomeManager" preserve="all" />
+    <type fullname="MicrophoneAutoConfig" preserve="all" />
+    <type fullname="EventsManager" preserve="all" />
+    <type fullname="Photon.Pun.UtilityScripts.ConnectAndJoinCustom" preserve="all" />
+    <type fullname="CloudAnimation" preserve="all" />
+    <type fullname="PlanetInteractions" preserve="all" />
+    <type fullname="CameraHomeController" preserve="all" />
+    <type fullname="AvatarsUIManager" preserve="all" />
+    <type fullname="ObjectRotator" preserve="all" />
+    <type fullname="AvatarsManager" preserve="all" />
+    <type fullname="GotoHome" preserve="all" />
+    <type fullname="NOcean.NeoReflection" preserve="all" />
+    <type fullname="WaterWaveRenderer" preserve="all" />
+    <type fullname="NOcean.UnderwaterEffect" preserve="all" />
+    <type fullname="NOcean.NeoOcean" preserve="all" />
+    <type fullname="NOcean.NeoProjectedGrid" preserve="all" />
+    <type fullname="ButtonManager" preserve="all" />
+    <type fullname="ScrollScreenManager" preserve="all" />
+    <type fullname="ScreenManager" preserve="all" />
+    <type fullname="Vuplex.WebView.DefaultPointerInputDetectorCustom" preserve="all" />
+    <type fullname="InteractionZoomManager" preserve="all" />
+    <type fullname="PostItManager" preserve="all" />
+    <type fullname="Vuplex.WebView.WebViewPrefab" preserve="all" />
+    <type fullname="Vuplex.WebView.ViewportMaterialView" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Rendering.Volume" preserve="all" />
+    <type fullname="UnityEngine.Rendering.VolumeProfile" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="TMPro.TMP_Dropdown" preserve="all" />
+    <type fullname="TMPro.TMP_InputField" preserve="all" />
+    <type fullname="TMPro.TMP_FontAsset" preserve="all" />
+    <type fullname="TMPro.TextMeshProUGUI" preserve="all" />
+    <type fullname="TMPro.TextMeshPro" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.RenderPipelines.Universal.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Rendering.Universal.Bloom" preserve="all" />
+    <type fullname="UnityEngine.Rendering.Universal.PostProcessData" preserve="all" />
+    <type fullname="UnityEngine.Rendering.Universal.ForwardRendererData" preserve="all" />
+    <type fullname="UnityEngine.Rendering.Universal.UniversalAdditionalCameraData" preserve="all" />
+    <type fullname="UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset" preserve="all" />
+    <type fullname="UnityEngine.Rendering.Universal.Tonemapping" preserve="all" />
+    <type fullname="UnityEngine.Rendering.Universal.Vignette" preserve="all" />
+  </assembly>
+  <assembly fullname="LeanLocalization, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Lean.Localization.LeanLocalization" preserve="all" />
+    <type fullname="Lean.Localization.LeanPhrase" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEditor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEditor.MonoScript" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.TextRenderingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Font" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.UIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.CanvasRenderer" preserve="all" />
+    <type fullname="UnityEngine.Canvas" preserve="all" />
+  </assembly>
+  <assembly fullname="PhotonVoice, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Photon.Voice.Unity.WebRtcAudioDsp" preserve="all" />
+    <type fullname="Photon.Voice.Unity.Recorder" preserve="all" />
+  </assembly>
+  <assembly fullname="PhotonVoice.PUN, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Photon.Voice.PUN.PhotonVoiceNetwork" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.ParticleSystemModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.ParticleSystem" preserve="all" />
+    <type fullname="UnityEngine.ParticleSystemRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.AnimationClip" preserve="all" />
+    <type fullname="UnityEngine.RuntimeAnimatorController" preserve="all" />
+    <type fullname="UnityEngine.Animator" preserve="all" />
+    <type fullname="UnityEngine.Avatar" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.TerrainPhysicsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.TerrainCollider" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.TerrainModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.TerrainData" preserve="all" />
+    <type fullname="UnityEngine.Terrain" preserve="all" />
+    <type fullname="UnityEngine.TerrainLayer" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.AI.OffMeshLink" preserve="all" />
+    <type fullname="UnityEngine.AI.NavMeshData" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.VideoModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Video.VideoPlayer" preserve="all" />
+  </assembly>
+</linker>
