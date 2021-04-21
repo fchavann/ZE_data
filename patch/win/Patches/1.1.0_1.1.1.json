@@ -1,0 +1,43 @@
+{
+  "From": "1.1.0",
+  "To": "1.1.1",
+  "Hash": "LHHiXEy3NcLepcplVu6+8mmt9m8",
+  "TotalSize": 13041,
+  "Entries": [
+    {
+      "Operation": 2,
+      "RelativePath": "Klona_Data/globalgamemanagers",
+      "Attributes": 32,
+      "LastWriting": "2021-04-21T13:43:03.4606909Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Klona_Data/Plugins/x86_64/lib_burst_generated.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-04-21T13:43:03.0137044Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Klona_Data/StreamingAssets/aa/catalog.json",
+      "Attributes": 32,
+      "LastWriting": "2021-04-21T13:25:20.0195156Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Klona_Data/StreamingAssets/aa/settings.json",
+      "Attributes": 32,
+      "LastWriting": "2021-04-21T13:25:20.0424543Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "version.data",
+      "Attributes": 32,
+      "LastWriting": "2021-04-21T13:45:05.9868351Z",
+      "Size": 0
+    }
+  ]
+}
