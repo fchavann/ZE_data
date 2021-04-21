@@ -1,0 +1,78 @@
+{
+  "From": "1.1.0",
+  "To": "1.1.1",
+  "Hash": "xpSbI7eISx5drFwMFG/wmst2tr4",
+  "TotalSize": 10950559,
+  "Entries": [
+    {
+      "Operation": 2,
+      "RelativePath": "GameAssembly.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-04-21T14:45:26.6914431Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Klona_Data/globalgamemanagers",
+      "Attributes": 32,
+      "LastWriting": "2021-04-21T14:44:23.6346185Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Klona_Data/globalgamemanagers.assets",
+      "Attributes": 32,
+      "LastWriting": "2021-04-21T14:44:24.691924Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Klona_Data/level0",
+      "Attributes": 32,
+      "LastWriting": "2021-04-21T14:44:19.9296561Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Klona_Data/resources.assets",
+      "Attributes": 32,
+      "LastWriting": "2021-04-21T14:44:25.1039687Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Klona_Data/sharedassets0.assets",
+      "Attributes": 32,
+      "LastWriting": "2021-04-21T14:44:25.1228678Z",
+      "Size": 0
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Klona_Data/sharedassets0.resource",
+      "Attributes": 32,
+      "LastWriting": "2021-04-21T14:44:25.1198762Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Klona_Data/il2cpp_data/Metadata/global-metadata.dat",
+      "Attributes": 32,
+      "LastWriting": "2021-04-21T14:45:14.8435469Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Klona_Data/Plugins/x86_64/lib_burst_generated.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-04-21T14:44:23.0978441Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "version.data",
+      "Attributes": 32,
+      "LastWriting": "2021-04-21T14:45:51.9979714Z",
+      "Size": 0
+    }
+  ]
+}
