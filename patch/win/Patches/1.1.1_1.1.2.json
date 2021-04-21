@@ -1,0 +1,57 @@
+{
+  "From": "1.1.1",
+  "To": "1.1.2",
+  "Hash": "i8pK+chdBLuT+aGCxPZ0tVw9yjs",
+  "TotalSize": 9420659,
+  "Entries": [
+    {
+      "Operation": 2,
+      "RelativePath": "GameAssembly.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-04-21T15:33:52.5204593Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Klona_Data/globalgamemanagers",
+      "Attributes": 32,
+      "LastWriting": "2021-04-21T15:32:57.0924766Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Klona_Data/globalgamemanagers.assets",
+      "Attributes": 32,
+      "LastWriting": "2021-04-21T15:32:57.4428158Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Klona_Data/resources.assets",
+      "Attributes": 32,
+      "LastWriting": "2021-04-21T15:32:57.7776227Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Klona_Data/Plugins/x86_64/lib_burst_generated.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-04-21T15:32:56.5764948Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Klona_Data/Plugins/x86_64/lib_burst_generated.txt",
+      "Attributes": 32,
+      "LastWriting": "2021-04-21T15:32:56.6325224Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "version.data",
+      "Attributes": 32,
+      "LastWriting": "2021-04-21T15:34:14.7536295Z",
+      "Size": 0
+    }
+  ]
+}
